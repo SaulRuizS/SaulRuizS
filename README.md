@@ -1,4 +1,4 @@
-## Hello there!  :tw-1f44b:
+## Hello there!
 My name is Saúl. I am a Mechatronic Engineer and a self-taught Software Developer. I am currently working with Frontend technologies like JavaScript, CSS and HTML. I love learning about new technologies that is why I am currently learning React, Node.js and MongoDB.
 
 #### Languages and tools:
